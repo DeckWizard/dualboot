@@ -45,4 +45,5 @@ DISCLAIMER: This script is an alternative rEFInd Script taken from jlobue10's v1
 
 jlobue10 Script - https://github.com/jlobue10/SteamDeck_rEFInd
 
-All Credit goes to jlobue10 for creating this script for multi-booting on the Steam Deck```
+All Credit goes to jlobue10 for creating this script for multi-booting on the Steam Deck
+```
