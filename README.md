@@ -40,8 +40,9 @@ Now that the Dual Boot has been installed, **we need** to perform 1 of 2 options
 
 With this method you can change branches in SteamOS between Main > Beta > Preview without having to worry about the Dual Boot breaking.
 
-```DISCLAIMER: This script is an alternative rEFInd Script taken from jlobue10's v1.0.9 release with an added theme and config changes.
+```
+DISCLAIMER: This script is an alternative rEFInd Script taken from jlobue10's v1.0.9 release with an added theme and config changes.
 
 jlobue10 Script - https://github.com/jlobue10/SteamDeck_rEFInd
 
-**All Credit goes to jlobue10 for creating this script for multi-booting on the Steam Deck**```
+All Credit goes to jlobue10 for creating this script for multi-booting on the Steam Deck```
