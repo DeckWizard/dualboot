@@ -41,7 +41,9 @@ With this method you can change branches in SteamOS between Main > Beta > Previe
 ```
 DISCLAIMER: This script is an alternative rEFInd Script taken from jlobue10's v1.0.9 release with an added theme and config changes.
 
-jlobue10 Script - https://github.com/jlobue10/SteamDeck_rEFInd
-
 All Credit goes to jlobue10 for creating this script for multi-booting on the Steam Deck
 ```
+
+jlobue10 Script - https://github.com/jlobue10/SteamDeck_rEFInd
+
+Theme used for foundation - https://github.com/Yannis4444/Matrix-rEFInd
