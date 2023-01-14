@@ -17,7 +17,7 @@ chmod +x SteamDeck_rEFInd_install.sh
 Now that the Dual Boot has been installed, **we need** to perform 1 of 2 options to prevent Windows booting over our boot loader when we restart the Steam Deck & also whenever a new SteamOS update occurs which updates the BIOS firmware.
 
 - Boot into Windows, download EasyUEFI and disable the Windows Boot Manager. If you don't want to use Windows you can boot into the SteamOS Recovery Image, open a Konsole window and type ```sudo efibootmgr -b XXXX -B``` to disable the Windows Boot Manager this way.
-- Boot into Windows, create a folder in the C:/ Drive called ```boot```, download the following file - ```bootsequence-rEFInd-first.ps1``` & place it in the ```boot``` folder.
+- Boot into Windows, create a folder in the C:/ Drive called ```boot```, download the following file - shorturl.at/pxBIJ ```bootsequence-rEFInd-first.ps1``` & place it in the ```boot``` folder.
 - Right click on start, search for & open ```Task Scheduler```
 - Right click on Task Scheduler Library and create a new folder called ```boot```, click this folder and select ```Create Basic Task```
 - Type ```boot``` for the Name & press Next
