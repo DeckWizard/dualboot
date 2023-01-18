@@ -33,6 +33,7 @@ All Credit goes to jlobue10 for creating this script for multi-booting on the St
 ```
 
 jlobue10 Script - https://github.com/jlobue10/SteamDeck_rEFInd
+
 RyanRudolfoba Windows Script - https://github.com/ryanrudolfoba/SteamDeck-rEFInd-dualboot/tree/main/rEFIndWindows
 
 Theme used for foundation - https://github.com/Yannis4444/Matrix-rEFInd
